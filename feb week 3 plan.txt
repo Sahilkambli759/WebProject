@@ -1,0 +1,23 @@
+feb week 3 plan 
+css topic to learn 
+1 transform 
+2 Transitions & Animations (@keyframes)
+3 Z-index & Stacking Context
+
+3 width height max width min width minheight maxheight 
+4 Position  property with all values relative absolute fixed sticky and uses =done   
+5 any 5 components 
+6 form advanced
+7 review of css grid 
+4 css responsive design 
+
+
+javascript 
+50 programs questions
+
+React
+1 reusable component in react demo 
+2 3 hook 
+4 5question in react interview 
+
+4 firebase start 
